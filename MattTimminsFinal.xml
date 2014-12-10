@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Matt Timmins              -->
+<!-- CMIS170                   -->
+<!-- Final Project             -->
+<!-- Professor Tiffany Johnson -->
+
+<!-- GeoRSS 2.0 XML Feed -->
+<rss version="2.0"  xmlns:georss="http://www.georss.org/georss"  xmlns:gml="http://www.opengis.net/gml">
+    <channel>
+        <link>http://maps.google.com</link>
+        <title>Washington D.C. Landmarks</title>
+        <description>Interesting Landmarks around the Nation's Capital</description>
+        <item>
+            <guid isPermaLink="false">d0273a719f3e46db93dc839e3c543903</guid>
+            <pubDate>Fri, 08 Aug 2014 20:00:00 EST</pubDate>
+            <title>Union Station</title>
+            <description>Union Station is a major train station, transportation hub, and leisure destination</description>
+            <author>mat.timmins@gmail.com</author>
+            <georss:where>
+                <gml:Point>
+                    <gml:pos>38.89777 -77.006402</gml:pos>
+                </gml:Point>
+            </georss:where>
+        </item>
+        <item>
+            <guid isPermaLink="false">1cbbcef074ad4437a8c7195a7e916002</guid>
+            <pubDate>Fri, 08 Aug 2014 20:01:00 EST</pubDate>
+            <title>Lincoln Memorial</title>
+            <description>The Lincoln Memorial is an American national monument built to honor the 16th President of the United States, Abraham Lincoln</description>
+            <author>mat.timmins@gmail.com</author>
+            <georss:where>
+                <gml:Point>
+                    <gml:pos>38.889269 -77.050176</gml:pos>
+                </gml:Point>
+            </georss:where>
+        </item>
+        <item>
+            <guid isPermaLink="false">db1ce6b537034ee98b080b433399e942</guid>
+            <pubDate>Fri, 08 Aug 2014 20:02:00 EST</pubDate>
+            <title>United States Naval Observatory</title>
+            <description>The United States Naval Observatory is one of the oldest scientific agencies in the United States, with a primary mission to produce Positioning, Navigation and Timing for the U.S. Navy and the U.S. Department of Defense</description>
+            <author>mat.timmins@gmail.com</author>
+            <georss:where>
+                <gml:Point>
+                    <gml:pos>38.921674 -77.066884</gml:pos>
+                </gml:Point>
+            </georss:where>
+        </item>
+        <item>
+            <guid isPermaLink="false">433b4e20aa76455bbc03aad2ba9335fe</guid>
+            <pubDate>Fri, 08 Aug 2014 20:03:00 EST</pubDate>
+            <title>Pentagon</title>
+            <description>The Pentagon is the headquarters of the United States Department of Defense, located in Arlington County, Virginia</description>
+            <author>mat.timmins@gmail.com</author>
+            <georss:where>
+                <gml:Point>
+                    <gml:pos>38.8717138 -77.0562438</gml:pos>
+                </gml:Point>
+            </georss:where>
+        </item>
+        <item>
+            <guid isPermaLink="false">f6e4bc11a4ce410d8ef891d513bf8356</guid>
+            <pubDate>Fri, 08 Aug 2014 20:04:00 EST</pubDate>
+            <title>Kennedy Center</title>
+            <description>The John F. Kennedy Center for the Performing Arts is a performing arts center located on the Potomac River, adjacent to the Watergate complex</description>
+            <author>mat.timmins@gmail.com</author>
+            <georss:where>
+                <gml:Point>
+                    <gml:pos>38.8960602 -77.0555775</gml:pos>
+                </gml:Point>
+            </georss:where>
+        </item>
+    </channel>
+</rss>
